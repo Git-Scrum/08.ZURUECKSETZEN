@@ -1,4 +1,4 @@
-### **08. Einen alten Programmstand ZURÜCKSETZEN >> "Änderungen löschen (--hard)""**
+### **Einen alten Programmstand ZURÜCKSETZEN >> "Änderungen löschen (--hard)""**
 
 #### **Video:**  [ZURÜCKSETZEN](https://maxeythschulede-my.sharepoint.com/:v:/g/personal/schwaiger_max-eyth-schule_de1/Eaa3t4jzJ6RFvDbIIyjC0fABNQPhMDTJZiLB2wumQtL1og?e=8icKJJ) 🎞
 
